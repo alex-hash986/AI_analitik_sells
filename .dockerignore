@@ -1,0 +1,8 @@
+*
+!Dockerfile
+!requirements.txt
+!app/
+!app/**
+!data/
+!data/sample_sales.csv
+**/__pycache__/
